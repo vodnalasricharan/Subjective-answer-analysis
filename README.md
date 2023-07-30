@@ -13,7 +13,7 @@ At the core NB classifier is working. With 21 records available in it.
 
 (I know its very very very small dataset but still atleast read the complete documentation you'll get to know what I want to say! :) )
 
-(herer is that Dataset https://github.com/im-minion/Subjective-Answer-Evaluation/blob/master/Modules/finaldataset.csv)
+(herer is that Dataset https://github.com/vodnalasricharan/Subjective-answer-analysis/blob/main/Modules/finaldataset.csv)
 
 
 For doing this evaluation I have used 3 Parameters 
@@ -57,14 +57,14 @@ Fuzzy Logic is used to give the value of qst.
 ## Usage:
 First of all clone this repository using following command:
 
-```git clone https://github.com/im-minion/Subjective-Answer-Evaluation.git```
+```git clone https://github.com/vodnalasricharan/Subjective-answer-analysis.git```
 
-or download https://github.com/im-minion/Subjective-Answer-Evaluation this repository. 
+or download https://github.com/vodnalasricharan/Subjective-answer-analysis this repository. 
 
 Then You can find the "requirements.txt" file at the root level of this project which contains all the requirements of this project. For installing these requirements open terminal and run the following command
 
 ```
-cd path/to/Subjective-Answer-Evaluation
+cd path/to/Subjective-answer-analysis
 pip install -r requirements.txt
 ```
 
@@ -99,5 +99,5 @@ Run that file and you will have the answers evaluated by the algorithm inside th
 
 
 
-for any issues drop an email - vaibhavminiyar@gmail.com
+for any issues drop an email - vodnalasricharan@gmail.com
 (For getting the results evalauted by algorithm download this [Android Application](https://drive.google.com/open?id=1OSTLtEltRqbW5QHsRMfPmwMDU9zl5f90)
