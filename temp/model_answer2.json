@@ -1,0 +1,5 @@
+{
+      "answer": "Asymptotic Notations are languages that allow us to analyze an algorithm's running time by identifying its behavior as the input size for the algorithm increases. This is also known as an algorithm's growth rate. Main Types - 1. Big 2.Small 1. Big Notation further divided into three types- 1)Big O 2)Big Omega 3)Big Theta 2. Small Notation further divided into three types- 1)Small o 2)Small Theta",
+      "keywords": "['Analysing Algorithm', 'analyse running time','represent time complexity of algorithms','measure the efficiency']",
+      "out_of": 5
+    }
